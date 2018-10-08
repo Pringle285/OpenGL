@@ -1,0 +1,7 @@
+﻿  ShaderProgram.cpp
+  VertexArray.cpp
+w:\2nd year study\3dgp\labprojects\triangle\src\vertexarray.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  VertexBuffer.cpp
+  main.cpp
+  Generating Code...
+  triangle.vcxproj -> W:\2nd Year Study\3DGP\LabProjects\triangle\legacy\Debug\triangle.exe
